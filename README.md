@@ -76,6 +76,5 @@ mvp_rfid/
 └── requirements.txt      # Dependências
 ```
 
-## Raspberry Pi Pico & RFID
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/hV9GTqXLMpg" title="Raspberry Pi Pico &amp; RFID" frameborder="1" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Tutorial do Raspberry Pi Pico & RFID
+[![Video Title](https://img.youtube.com/vi/hV9GTqXLMpg/0.jpg)](https://www.youtube.com/watch?v=hV9GTqXLMpg)
