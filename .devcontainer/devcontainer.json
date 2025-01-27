@@ -6,7 +6,7 @@
     "codespaces": {
       "openFiles": [
         "README.md",
-        "mvp_rfid/ml/linear_regression_predicts.py"
+        "mvp_rfid/ml/main.py"
       ]
     },
     "vscode": {

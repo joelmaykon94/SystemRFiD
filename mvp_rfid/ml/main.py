@@ -30,7 +30,7 @@ def train_model():
 
 # Streamlit User Interface for Deployed Model
 def main():
-    st.title('🏠 Simple House Pricing Predictor')
+    st.title('🏠 Modelos de aprendizado de máquina')
     st.write('Introduce the house size to predict its sale price')
 
     # Train model
